@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>live2d</id>
+<name>Live2D 看板娘</name>
+<url>https://www.fghrsh.net/post/123.html</url>
+<note>将萌萌的 Live2D 看板娘 添加到博客上吧！</note>
+<description></description>
+<path></path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>FGHRSH</name>
+  <email>i@fghrsh.net</email>
+  <url>https://www.fghrsh.net/</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>140614</adapted>
+<version>1.4.2</version>
+<pubdate>2017-12-18</pubdate>
+<modified>2018-11-12</modified>
+<price>0</price>
+<phpver>5.2</phpver>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <existsfunctions></existsfunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>

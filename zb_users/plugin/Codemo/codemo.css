@@ -1,0 +1,13 @@
+@charset "utf-8";
+/*
+For: 运行代码演示[ZBLOG-PHP插件] https://app.zblogcn.com/?auth=3ec7ee20-80f2-498a-a5dd-fda19b198194
+Author: 尔今
+Author Email: erx@qq.com
+Author URL: http://www.yiwuku.com/
+*/
+
+.codemo-code{position:absolute;top:-9999em;left:-9999em;opacity:0;}
+.runbtn{font-size:12px;margin:0 12px 15px 0;padding:3px 9px;cursor:pointer}
+.codemo-tip{display:inline-block;margin:0 12px 15px 5px;color:#090;font-size:12px;vertical-align:middle;visibility:hidden;opacity:0;transition:all .4s linear;}
+.codemo-tip.erxact{opacity:1;visibility:visible;}
+.codemo-tip.erxerror{color:#f00;}

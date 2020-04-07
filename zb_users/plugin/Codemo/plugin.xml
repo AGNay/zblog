@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>Codemo</id>
+<name>运行代码演示</name>
+<url>http://www.yiwuku.com/</url>
+<note>为HTML/CSS/JS代码添加“运行代码”和“复制”按钮，轻松实现一键演示和一键复制</note>
+<description>为文章中贴出的HTML/CSS/JS代码片段添加“运行代码”和“复制”按钮，不影响原有代码高亮效果；《益吾库》尔今作品，定制修改服务【联系QQ77940140】</description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>尔今</name>
+  <email>erx@qq.com</email>
+  <url>http://www.yiwuku.com/</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>151740</adapted>
+<version>1.3</version>
+<pubdate>2015-07-24</pubdate>
+<modified>2020-01-03</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict>Codemo_vip</conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>

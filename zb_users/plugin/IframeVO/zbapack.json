@@ -1,0 +1,8 @@
+{
+  "packname": "{id}_{version}_{time}",
+  "exclude": {
+    "regex": "/\\/([.])/",
+    "dirs": [],
+    "files": []
+  }
+}

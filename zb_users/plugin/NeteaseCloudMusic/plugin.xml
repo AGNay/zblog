@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>NeteaseCloudMusic</id>
+<name>网易云音乐</name>
+<url>https://bbs.zblogcn.com/thread-100670.html</url>
+<note>网易云音乐插件</note>
+<description>在博客中添加网易云音乐播放器！</description>
+<path>main.php#tabs=setting</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>心扬</name>
+  <email>chrishyze@163.com</email>
+  <url>https://app.zblogcn.com/?auth=2ffbff0a-1207-4362-89fb-d9a780125e0a</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>151935</adapted>
+<version>2.13</version>
+<pubdate>2018-02-08</pubdate>
+<modified>2020-03-30</modified>
+<price>0</price>
+<phpver>5.4.0</phpver>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <existsfunctions>stream_socket_client|openssl_encrypt</existsfunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>

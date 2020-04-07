@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>mo_App</id>
+<name>漠漠睡集成插件-基础版</name>
+<url></url>
+<note>多功能集成</note>
+<description></description>
+<path></path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>漠漠睡</name>
+  <email>momo@momoshui.cn</email>
+  <url></url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>151935</adapted>
+<version>1.1</version>
+<pubdate>2019-07-03</pubdate>
+<modified>2020-01-06</modified>
+<price>0</price>
+<phpver>5.6</phpver>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <existsfunctions></existsfunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>

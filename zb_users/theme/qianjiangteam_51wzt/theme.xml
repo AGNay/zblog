@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="php">
+<id>qianjiangteam_51wzt</id>
+<name>主题51wzt--千江盟</name>
+<url>http://51wzt.ajiangit.com</url>
+<note>千江盟--主题51wzt 是一款SEO友好的模板</note>
+<description>主题51wzt 是一款SEO友好的模板主题</description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>主题疯子</name>
+  <email>727677752@qq.com</email>
+  <url>http://51wzt.ajiangit.com</url>
+</author>
+<source>
+  <name>qianjiangteam</name>
+  <email>727677752@qq.com</email>
+  <url>http://51wzt.ajiangit.com</url>
+</source>
+<adapted>151935</adapted>
+<version>1.2</version>
+<pubdate>2020-03-14</pubdate>
+<modified>2020-03-19</modified>
+<price>0</price>
+<phpver>5.4</phpver>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <existsfunctions></existsfunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1>catalog|archives|link|previous|tags</sidebar1>
+  <sidebar2>archives|link|previous</sidebar2>
+  <sidebar3>|previous|tags</sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</theme>
